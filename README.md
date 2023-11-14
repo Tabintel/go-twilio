@@ -1,5 +1,9 @@
-# A User Verification System built with Twilio & Go
+# Twilio Voice App in Go
 
-## Setup for the Project
+This is a simple Go application using the Gin web framework to demonstrate Twilio's Programmable Voice capabilities.
 
-- Working with Twilio SendGrid and Programmable Voice
+## Prerequisites
+
+- Go installed
+- [Twilio account](https://www.twilio.com/try-twilio)
+- [Ngrok](https://ngrok.com/download) for local testing
